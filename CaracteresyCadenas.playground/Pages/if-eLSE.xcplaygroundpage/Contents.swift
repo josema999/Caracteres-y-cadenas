@@ -14,6 +14,8 @@ if edad >= 18 {
                            
         }
     }
+} else {
+    print("no puedes entrar")
 }
 
 
